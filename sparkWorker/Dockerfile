@@ -15,7 +15,7 @@ RUN apk --no-cache add bash && \
 
 EXPOSE 8081
 
-CMD ["bash","-c","/home/spark-2.4.2-bin-hadoop2.7/sbin/start-slave.sh 192.168.2.160:7077 && bash"]
+CMD ["bash","-c","/home/spark-2.4.2-bin-hadoop2.7/sbin/start-slave.sh 10.0.0.10:7077 && bash"]
 
 
 

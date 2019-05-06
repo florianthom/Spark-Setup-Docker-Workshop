@@ -18,5 +18,8 @@ CMD bash -C '/home/spark-2.4.2-bin-hadoop2.7/sbin/start-master.sh';'bash'
 
 
 # docker build -t sparkmaster .
-# docker run -d -t --restart=always -p 8080:8080 -p 7077:7077 -p 6066:6066 sparkmaster
+# docker run -d -t --restart=always -v /home/vagrant/shareWithHost/sparkApps:/apps -p 8080:8080 -p 7077:7077 -p 6066:6066 sparkmaster
+# docker run -d -t --restart=always -v apps/:/apps -p 8080:8080 -p 7077:7077 -p 6066:6066 sparkmaster
 # docker exec -it flamboyant_colden bash
+
+/home/vagrant/shareWithHost
