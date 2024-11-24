@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(test.WikiPlagTest, org.scalatest.tools.Framework$$anon$1@277d443d, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 10 minutes, 14 seconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 8[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 1, failed 7, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 7 TESTS FAILED ***[0m[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	test.WikiPlagTest[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

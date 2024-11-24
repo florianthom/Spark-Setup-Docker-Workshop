@@ -1,0 +1,93 @@
+[0m[[0minfo[0m] [0m[32mWikiPlagTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Parsing Successful[0m[0m
+[0m[[0minfo[0m] [0m[31m- Top X words *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at wikiplag.WikiPlagFuns$.getTopXWords(WikiPlagFuns.scala:10)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$4.apply(WikiPlagTest.scala:66)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$4.apply(WikiPlagTest.scala:64)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- extractIndexes Test *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at wikiplag.WikiPlagFuns$.extractIndexes(WikiPlagFuns.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$5.apply(WikiPlagTest.scala:74)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$5.apply(WikiPlagTest.scala:72)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- Create Inverse Index Test *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at wikiplag.WikiPlagFuns$.createIndex(WikiPlagFuns.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$7.apply(WikiPlagTest.scala:83)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$7.apply(WikiPlagTest.scala:81)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- Create Inverse Index with Accumulator Test *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at wikiplag.WikiPlagFuns$.createIndexWithAccumulator(WikiPlagFuns.scala:36)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$9.apply(WikiPlagTest.scala:91)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$9.apply(WikiPlagTest.scala:87)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- Create Inverse Index Test with broadcast *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at wikiplag.WikiPlagFuns$.createIndex(WikiPlagFuns.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$14.apply(WikiPlagTest.scala:105)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$14.apply(WikiPlagTest.scala:102)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- Create Inverse Index with Accumulator Action Test *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at wikiplag.WikiPlagFuns$.createIndexWithAccumulatorAction(WikiPlagFuns.scala:60)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$17.apply(WikiPlagTest.scala:118)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$17.apply(WikiPlagTest.scala:114)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- Create Inverse Index *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at wikiplag.WikiPlagFuns$.getTopXWords(WikiPlagFuns.scala:10)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$1.apply$mcV$sp(WikiPlagTest.scala:131)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$1.apply(WikiPlagTest.scala:129)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.WikiPlagTest$$anonfun$1.apply(WikiPlagTest.scala:129)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

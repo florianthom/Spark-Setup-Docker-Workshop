@@ -1,0 +1,556 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -target:jvm-1.7
+javac options:
+4 items
+0 -> -source
+1 -> 1.7
+2 -> -target
+3 -> 1.8
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+36 items
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/common/package$.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/common/package.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/Parser.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/StopWordAccumulator.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/Utilities$$anonfun$getData$1.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/Utilities$.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/Utilities.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiPlagFuns$.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiPlagFuns.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$1.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$10.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$11.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$12.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$13.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$14.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$15.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$16.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$17.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$18.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$19.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$2.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$20.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$21.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$3.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$4.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$5.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$6.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$7.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$8.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$9.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$extractWikiDisplayText$1.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$extractWikiDisplayText$2.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$extractWikiDisplayText$3.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$removeWikiMarkup$1.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$.class
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser.class
+binary dependencies:
+19 items
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> /home/florian/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> /home/florian/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> /home/florian/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.2.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> /home/florian/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> /home/florian/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.3.2.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> /home/florian/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.2.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> /home/florian/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.3.2.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> /home/florian/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> /home/florian/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.3.2.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> /home/florian/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.2.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> /home/florian/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/.ivy2/cache/org.unbescape/unbescape/jars/unbescape-1.1.4.RELEASE.jar
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+1 items
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala
+inheritance external dependencies:
+0 items
+class names:
+36 items
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> common.package
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> common.package$
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> wikiplag.Parser
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> wikiplag.StopWordAccumulator
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> wikiplag.Utilities
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> wikiplag.Utilities$
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> wikiplag.Utilities$$anonfun$getData$1
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> wikiplag.WikiPlagFuns
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> wikiplag.WikiPlagFuns$
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$1
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$10
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$11
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$12
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$13
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$14
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$15
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$16
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$17
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$18
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$19
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$2
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$20
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$21
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$3
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$4
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$5
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$6
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$7
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$8
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$9
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$extractWikiDisplayText$1
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$extractWikiDisplayText$2
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$extractWikiDisplayText$3
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag.WikiDumpParser$$anonfun$removeWikiMarkup$1
+used names:
+317 items
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> <init>
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> Any
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> AnyRef
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> Error
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> Nothing
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> common
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> package
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> scala
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> AnyRef
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> List
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> Predef
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> String
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> package
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> scala
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> wikiplag
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> <init>
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> ???
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> AccumulatorV2
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> Boolean
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> List
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> Long
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> Map
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> Predef
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> StopWordAccumulator
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> String
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> Tuple2
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> Unit
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> apache
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> org
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> package
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> scala
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> spark
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> util
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> wikiplag
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> +
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> <init>
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> AnyRef
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> ClassTag
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> DataFrame
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> FILENAME_ACCESS_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> List
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> Long
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> Predef
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> RDD
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> Row
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> SQLContext
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> SparkContext
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> String
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> System
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> Tuple3
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> Utilities
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> WikiDumpParser
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> X
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> apache
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> apply
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> augmentString
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> df
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> equals
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> err
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> exit
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> extractPlainText
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> filename
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> filter
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> format
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> getClass
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> getLong
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> getPath
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> getResource
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> getString
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> getStruct
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> hadoopfs
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> java
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> lang
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> load
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> map
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> materializeClassTag
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> option
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> org
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> package
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> parseXMLWikiPage
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> printf
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> r
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> rdd
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> read
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> sc
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> scala
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> select
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> source
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> spark
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> sql
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> sqlContext
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> toInt
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> toLong
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> url
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> wikiplag
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> <init>
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> ???
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> AnyRef
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> Broadcast
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> Int
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> List
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> Long
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> Map
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> Predef
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> RDD
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> Row
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> StopWordAccumulator
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> String
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> Tuple2
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> Tuple3
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> WikiPlagFuns
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> apache
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> broadcast
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> org
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> package
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> rdd
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> scala
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> spark
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> sql
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> wikiplag
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> +
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> -
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> ::
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> <init>
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> ==
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> ABBR_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Array
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> BDI_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> BDO_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> BIG_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> BLOCKQUOTE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> BOLD_FORMATTING_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> BOLD_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> B_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> CATEGORY_TREE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> CENTER_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> CE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> CHARINSERT_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> CITE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> CODE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> COMMENT_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> ClassTag
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> DATA_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> DEL_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> DFN_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> DIV_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> DL_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> DUPLICATE_WHITESPACE_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> EMPTY_DEFINITION_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> EMPTY_ORDERED_LIST_ELEMENT_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> EMPTY_TERM_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> EMPTY_UNORDERED_LIST_ELEMENT_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> EM_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> EXTERNAL_LINKS_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> EXTERNAL_LINKS_VAR_2_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> FONT_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> GALLERY_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> GRAPH_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> H1_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> H2_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> H3_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> H4_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> H5_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> H6_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> HIERO_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> HR_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> HR_WIKI_MARKUP_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> HtmlEscape
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> IMAGE_MAP_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> INCLUDE_ONLY_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> INDICATOR_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> INPUT_BOX_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> INS_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> INTERNAL_WIKI_LINK
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> INTERNAL_WIKI_LINK_WITHOUT_ALT
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> ITALICS_FORMATTING_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> I_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> IllegalArgumentException
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Int
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Iterator
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> KBD_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> LINE_BREAKS_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> List
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> ListBuffer
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> MARK_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> MATH_CHEM_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> MATH_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Match
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Matcher
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> NEW_LINE_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> NOWIKI_SINGLE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> NOWIKI_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> NO_INCLUDE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Nil
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> OL_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> ONLY_INCLUDE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> POEM_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> PRE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> P_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Parser
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Pattern
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Predef
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Q_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> RB_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> REDIRECT_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> REFERENCES_SINGLE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> REFERENCES_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> REF_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> REF_TAG_SINGLE_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> RUBY_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> Regex
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> SAMP_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> SCORE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> SECTION_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> SMALL_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> SOURCE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> SPAN_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> SPECIAL_INTERNAL_WIKI_LINK
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> STRIKE_OUT_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> STRIKE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> STRONG_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> SUB_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> SUP_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> SYNTAX_HIGH_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> String
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> TABLE_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> TABLE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> TEMPLATE_DATA_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> TEMPLATE_MARKER
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> TEMPLATE_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> TIME_LINE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> TIME_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> TT_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> UL_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> UNDERLINE_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> VAR_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> WBR_TAG_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> WORD_PATTERN
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> WikiDumpParser
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> annotation
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> append
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> apply
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> augmentString
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> beginSearchIndex
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> canBuildFrom
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> collection
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> displayPages
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> e
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> extractWords
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> findAllMatchIn
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> findFirstMatchIn
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> get
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> group
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> groupId
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> groupdId
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> head
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> html
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> immutable
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> indexOfMatch
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> isDefined
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> isEmpty
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> java
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> lastIndexOf
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> length
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> line
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> lines
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> map
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> matchIterator
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> matchList
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> matchListIterator
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> match_group
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> matching
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> materializeClassTag
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> mkString
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> mutable
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> next
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> org
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> package
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> page
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> pageContent
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> println
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> quote
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> quoteReplacement
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> r
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> refArrayOps
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> regex
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> regexList
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> regexListIndex
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> regexPattern
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> removeChars
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> removeExternalLinks
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> removeMatchWithGroup
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> removeNestedTags
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> removeWikiMarkup
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> replace
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> replaceAllIn
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> replaceFirstIn
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> replaceMatch
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> replaceMatchWithGroup
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> replaceNestedTags
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> replacePattern
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> replaceText
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> replaceWith
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> scala
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> size
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> split
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> substring
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> tag
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> tagAsRegex
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> tailrec
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> toList
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> toString
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> unbescape
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> unescapeHtml
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> util
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wikiplag
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> wordList
+product stamps:
+36 items
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/common/package$.class -> lastModified(1540902388000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/common/package.class -> lastModified(1540902388000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/Parser.class -> lastModified(1540902388000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/StopWordAccumulator.class -> lastModified(1540902388000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/Utilities$$anonfun$getData$1.class -> lastModified(1540902388000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/Utilities$.class -> lastModified(1540902388000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/Utilities.class -> lastModified(1540902388000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$1.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$10.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$11.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$12.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$13.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$14.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$15.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$16.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$17.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$18.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$19.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$2.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$20.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$21.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$3.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$4.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$5.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$6.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$7.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$8.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$9.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$extractWikiDisplayText$1.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$extractWikiDisplayText$2.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$extractWikiDisplayText$3.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$$anonfun$removeWikiMarkup$1.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser$.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiDumpParser.class -> lastModified(1540902388000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiPlagFuns$.class -> lastModified(1540902389000)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/target/scala-2.11/classes/wikiplag/WikiPlagFuns.class -> lastModified(1540902389000)
+source stamps:
+6 items
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> hash(30c4e92ca8c07539a77c89c11d2e56024da4e1a1)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> hash(cff5baeb4a5de2e80b79b449d59bfe8cf1ef1e43)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> hash(db053126fe03f5f32fd94a0b4449b3c6be4c8d1e)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> hash(6e82d0f8923cc3f0504d368b81d366b96181b567)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> hash(429a20d078002106170482f83acdd1b13a9d99a8)
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> hash(b45b9d606dc12546b04ab715d1feac0e86e8badc)
+binary stamps:
+6 items
+/home/florian/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.3.2.jar -> lastModified(1537188978000)
+/home/florian/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.2.jar -> lastModified(1537189220000)
+/home/florian/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.3.2.jar -> lastModified(1537188775000)
+/home/florian/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar -> lastModified(1509673049000)
+/home/florian/.ivy2/cache/org.unbescape/unbescape/jars/unbescape-1.1.4.RELEASE.jar -> lastModified(1475014232000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1538746202000)
+class names:
+6 items
+/home/florian/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.3.2.jar -> org.apache.spark.sql.Row
+/home/florian/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.2.jar -> org.apache.spark.broadcast.Broadcast
+/home/florian/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.3.2.jar -> org.apache.spark.sql.package$
+/home/florian/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar -> scala.Option
+/home/florian/.ivy2/cache/org.unbescape/unbescape/jars/unbescape-1.1.4.RELEASE.jar -> org.unbescape.html.HtmlEscape
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+6 items
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD4fTrPAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMuuG9iXQAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADCQr4eh0AAh0b1N0cmluZ3NxAH4ADD+6xGp0AAIhPXNxAH4ADAiXuqp0AAhnZXRDbGFzc3NxAH4ADAgqQ5N0AAJuZXNxAH4ADBp0CYt0AAJlcXNxAH4ADJMSNc90AAIjI3NxAH4ADI105FN0AAhmaW5hbGl6ZXNxAH4ADFTUP4h0AAhoYXNoQ29kZXNxAH4ADHttRPR0AAMqKipzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOY29tbW9uLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBceHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbAHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBkc3EAfgBbAHBzcQB+AGB1cQB+AD4AAAAAc3EAfgBbAHBzcQB+AGB1cQB+AD4AAAAAc3EAfgBbAHBzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZsTwbqV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABtL2hvbWUvZmxvcmlhbi9EZXNrdG9wL0NvbnRlbnRNYW5hZ2VtZW50U3VjaHRVbmRUZXh0dGVjaG5vbG9naWVuL1dpa2lQbGFnaWF0ZUF1ZmdhYmUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDDE6SyowHU5p3yJwR0uVgJNpOGh
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCI8aLhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGcQcZJ0AAZub3RpZnlzcQB+AAxe6PRXdAAEd2FpdHNxAH4ADLYw3wJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMCqNgbXQAEGV4dHJhY3RQbGFpblRleHRzcQB+AAwQgw1xdAAGZXF1YWxzc3EAfgAMwfZVUnQADGFzSW5zdGFuY2VPZnNxAH4ADI2nqEZ0AAxzeW5jaHJvbml6ZWRzcQB+AAyA8ceQdAAWZXh0cmFjdFdpa2lEaXNwbGF5VGV4dHNxAH4ADBz6bd10AA0kaXNJbnN0YW5jZU9mc3EAfgAMcFFg1XQACW5vdGlmeUFsbHNxAH4ADBjrUMp0AAxpc0luc3RhbmNlT2ZzcQB+AAwRR9akdAACPT1zcQB+AAyaAha/dAAFY2xvbmVzcQB+AAwDMHMGdAAIdG9TdHJpbmdzcQB+AAxmkhbqdAACIT1zcQB+AAxcaeybdAAQcGFyc2VYTUxXaWtpUGFnZXNxAH4ADLlV6+F0AAhnZXRDbGFzc3NxAH4ADPZCA9p0AAZQYXJzZXJzcQB+AAzD7moYdAACbmVzcQB+AAz2xAkudAACZXFzcQB+AAxWPHU7dAACIyNzcQB+AAz7YeukdAAIZmluYWxpemVzcQB+AAzat/kMdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAPd2lraXBsYWcuUGFyc2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBeeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdAHBzcQB+AGJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBmc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AINzcQB+AHZ0AANBbnlzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCdAAFc2NhbGFxAH4AiXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACHdpa2lwbGFnc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmxPBupXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AG0vaG9tZS9mbG9yaWFuL0Rlc2t0b3AvQ29udGVudE1hbmFnZW1lbnRTdWNodFVuZFRleHR0ZWNobm9sb2dpZW4vV2lraVBsYWdpYXRlQXVmZ2FiZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUz/W660pd4ugLebRJ1Zv+jPHvHkM=
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCgteZlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDQW8ZN0AAZub3RpZnlzcQB+AAwsUtXhdAAIcmVnaXN0ZXJzcQB+AAzAzKETdAAScmVnaXN0ZXIkZGVmYXVsdCQyc3EAfgAMzdNmwXQABG5hbWVzcQB+AAyo94CfdAAEd2FpdHNxAH4ADGTs+tp0AA0kYXNJbnN0YW5jZU9mc3EAfgAM+SAgp3QAEWNvdW50RmFpbGVkVmFsdWVzc3EAfgAM+BRI/HQABmVxdWFsc3NxAH4ADAY0pzB0AAZpc1plcm9zcQB+AAyVyIoUdAAMYXNJbnN0YW5jZU9mc3EAfgAMdt0AxnQAEnJlZ2lzdGVyJGRlZmF1bHQkM3NxAH4ADKerN6Z0AAxzeW5jaHJvbml6ZWRzcQB+AAyty8tEdAANJGlzSW5zdGFuY2VPZnNxAH4ADMB6p/B0AAxjb3B5QW5kUmVzZXRzcQB+AAwjx+dpdAAGdG9JbmZvc3EAfgAMrDViO3QACW5vdGlmeUFsbHNxAH4ADAmnYHJ0AAxpc0luc3RhbmNlT2ZzcQB+AAz3zuc5dAAGPGluaXQ+c3EAfgAMDrt+23QABW1lcmdlc3EAfgAMrvvIBHQAAmlkc3EAfgAMK8GJL3QAAj09c3EAfgAMsEIlvnQABWNsb25lc3EAfgAM63YJj3QADmlzQXREcml2ZXJTaWRlc3EAfgAMJofgiHQADHdyaXRlUmVwbGFjZXNxAH4ADKm+R1V0AARjb3B5c3EAfgAMdAMxBHQABXJlc2V0c3EAfgAMlCHP4HQACG1ldGFkYXRhc3EAfgAMKTBNH3QACHRvU3RyaW5nc3EAfgAM2Ey3CXQAE1N0b3BXb3JkQWNjdW11bGF0b3JzcQB+AAyY7dk2dAACIT1zcQB+AAwmE+pEdAAMaXNSZWdpc3RlcmVkc3EAfgAMMbJ+yXQACGdldENsYXNzc3EAfgAMdSO2SnQAAm5lc3EAfgAMf+kdi3QAA2FkZHNxAH4ADE9kB5h0AAV2YWx1ZXNxAH4ADMq1G6h0AAJlcXNxAH4ADJZFgj50AAIjI3NxAH4ADBEI+Tt0AAhmaW5hbGl6ZXNxAH4ADKaUcLZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABx3aWtpcGxhZy5TdG9wV29yZEFjY3VtdWxhdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB+eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB9AHBzcQB+AIJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCGc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGV0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCFc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4cQB+AJd4cQB+AIV0AA1BY2N1bXVsYXRvclYyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCFc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAFc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+AKV0AAZhcGFjaGVzcQB+AKV0AAVzcGFya3NxAH4ApXQABHV0aWxzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ApnVxAH4AlAAAAAJzcQB+AJZzcQB+AJp0AAZUdXBsZTJzcQB+AJ1zcQB+AKB1cQB+AKMAAAACc3EAfgCldAAFc2NhbGFxAH4AsHVxAH4AlAAAAAJzcQB+AJp0AAZTdHJpbmdzcQB+AJ1zcQB+AKB1cQB+AKMAAAADc3EAfgCldAAEamF2YXNxAH4ApXQABGxhbmdxAH4AsHNxAH4AmnQABExvbmdxAH4AtXNxAH4AlnNxAH4AmnQAA01hcHNxAH4AnXNxAH4AoHVxAH4AowAAAARzcQB+AKVxAH4AuXNxAH4ApXQACmNvbGxlY3Rpb25zcQB+AKV0AAlpbW11dGFibGVxAH4AsHVxAH4AlAAAAAJxAH4Au3NxAH4AlnNxAH4AmnQABExpc3RxAH4AyXVxAH4AlAAAAAFxAH4AxHNxAH4AmnQADFNlcmlhbGl6YWJsZXEAfgC1c3EAfgCacQB+ANdzcQB+AJ1zcQB+AKB1cQB+AKMAAAADc3EAfgClcQB+AMFzcQB+AKV0AAJpb3EAfgCwc3EAfgCadAAGT2JqZWN0cQB+AL1zcQB+AJp0AANBbnlxAH4AtXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACHdpa2lwbGFnc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmxPBupXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AG0vaG9tZS9mbG9yaWFuL0Rlc2t0b3AvQ29udGVudE1hbmFnZW1lbnRTdWNodFVuZFRleHR0ZWNobm9sb2dpZW4vV2lraVBsYWdpYXRlQXVmZ2FiZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU2wUxJv4D9fMv2UoLREmzxr5MjR4=
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDr5XvoAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCpwNGx0AAZub3RpZnlzcQB+AAyqtnGHdAAIaGFkb29wZnNzcQB+AAzqydW5dAAXRklMRU5BTUVfQUNDRVNTX1BBVFRFUk5zcQB+AAxrJtdBdAAEd2FpdHNxAH4ADAnlwDh0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1RcYBHQABmVxdWFsc3NxAH4ADOukfQh0AAxhc0luc3RhbmNlT2ZzcQB+AAzdMXgsdAAMc3luY2hyb25pemVkc3EAfgAMb+YycnQADSRpc0luc3RhbmNlT2ZzcQB+AAyOdZLfdAAJbm90aWZ5QWxsc3EAfgAMUgk3WXQADGlzSW5zdGFuY2VPZnNxAH4ADMfWQkx0AAdnZXREYXRhc3EAfgAMr/yvznQAAj09c3EAfgAMnp7v0HQABWNsb25lc3EAfgAM0ARliXQACVV0aWxpdGllc3NxAH4ADJ0sHhB0AAh0b1N0cmluZ3NxAH4ADOX7GMR0AAIhPXNxAH4ADK8/dkZ0AAhnZXRDbGFzc3NxAH4ADBUuQAR0AAJuZXNxAH4ADKk2pMF0AAJlcXNxAH4ADAa082h0AAIjI3NxAH4ADBWi3R50AAhmaW5hbGl6ZXNxAH4ADOVlAIV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABJ3aWtpcGxhZy5VdGlsaXRpZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBeeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdAHBzcQB+AGJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBmc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AINzcQB+AHZ0AANBbnlzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCdAAFc2NhbGFxAH4AiXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACHdpa2lwbGFnc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmxPBupXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AG0vaG9tZS9mbG9yaWFuL0Rlc2t0b3AvQ29udGVudE1hbmFnZW1lbnRTdWNodFVuZFRleHR0ZWNobm9sb2dpZW4vV2lraVBsYWdpYXRlQXVmZ2FiZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUboLQ+JI8w/BQTTaLgdNmuWGBtWc=
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCll0nRAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cE4qOT10ABhjcmVhdGVJbmRleFdpdGhCcm9hZGNhc3RzcQB+AAzel2lfdAAGbm90aWZ5c3EAfgAMabvgZXQADFdpa2lQbGFnRnVuc3NxAH4ADGUolDV0AAR3YWl0c3EAfgAM24gv+nQAC2NyZWF0ZUluZGV4c3EAfgAMUfxNuXQADSRhc0luc3RhbmNlT2ZzcQB+AAxhUl9gdAAGZXF1YWxzc3EAfgAMZw7RAnQAG2V4dHJhY3RJbmRleGVzV2l0aEJyb2FkY2FzdHNxAH4ADKEvKu50AAxhc0luc3RhbmNlT2ZzcQB+AAwmYf5+dAAMc3luY2hyb25pemVkc3EAfgAMwkAe0XQADSRpc0luc3RhbmNlT2ZzcQB+AAxLgNG6dAAJbm90aWZ5QWxsc3EAfgAMHDCC1nQADGlzSW5zdGFuY2VPZnNxAH4ADHCfCC50AA5leHRyYWN0SW5kZXhlc3NxAH4ADOobYD90AB1leHRyYWN0SW5kZXhlc1dpdGhBY2N1bXVsYXRvcnNxAH4ADGcybx90AAxnZXRUb3BYV29yZHNzcQB+AAwuBrWvdAACPT1zcQB+AAx/nCdvdAAFY2xvbmVzcQB+AAwDxJF/dAAaY3JlYXRlSW5kZXhXaXRoQWNjdW11bGF0b3JzcQB+AAwT4r3zdAAIdG9TdHJpbmdzcQB+AAxe4tbzdAACIT1zcQB+AAz+ryARdAAgY3JlYXRlSW5kZXhXaXRoQWNjdW11bGF0b3JBY3Rpb25zcQB+AAxSPcuodAAIZ2V0Q2xhc3NzcQB+AAxqvUWKdAACbmVzcQB+AAw+k7AMdAACZXFzcQB+AAxfE0WwdAACIyNzcQB+AAyYV8EidAAIZmluYWxpemVzcQB+AAx2pYxPdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAVd2lraXBsYWcuV2lraVBsYWdGdW5zdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AaHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZwBwc3EAfgBsc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AcHNxAH4AZwBwc3EAfgBsdXEAfgBKAAAAAHNxAH4AZwBwc3EAfgBsdXEAfgBKAAAAAHNxAH4AZwBwc3EAfgBsdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBvdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCMdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCNc3EAfgCAdAADQW55c3EAfgCEc3EAfgCHdXEAfgCKAAAAAnNxAH4AjHQABXNjYWxhcQB+AJN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAh3aWtpcGxhZ3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZsTwbqV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABtL2hvbWUvZmxvcmlhbi9EZXNrdG9wL0NvbnRlbnRNYW5hZ2VtZW50U3VjaHRVbmRUZXh0dGVjaG5vbG9naWVuL1dpa2lQbGFnaWF0ZUF1ZmdhYmUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEKaINB4ACEGFwSC+DrN0bE6nZmo
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD5HEruAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAgHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cObVV4t0AAZub3RpZnlzcQB+AAzAcp/bdAAOV2lraUR1bXBQYXJzZXJzcQB+AAzEFzmEdAAOQ0VfVEFHX1BBVFRFUk5zcQB+AAzrIsExdAAQUE9FTV9UQUdfUEFUVEVSTnNxAH4ADLdmNTR0AA9SRUZfVEFHX1BBVFRFUk5zcQB+AAxco3BqdAAkRU1QVFlfVU5PUkRFUkVEX0xJU1RfRUxFTUVOVF9QQVRURVJOc3EAfgAMplZV+3QAEHJlbW92ZU5lc3RlZFRhZ3NzcQB+AAx6RDXsdAAPU1VCX1RBR19QQVRURVJOc3EAfgAMKF+vNHQADlJCX1RBR19QQVRURVJOc3EAfgAMW6qNo3QAGUNBVEVHT1JZX1RSRUVfVEFHX1BBVFRFUk5zcQB+AAyOBNl/dAASTk9XSUtJX1RBR19QQVRURVJOc3EAfgAM4cBRP3QABHdhaXRzcQB+AAxyHpBzdAAQcmVtb3ZlV2lraU1hcmt1cHNxAH4ADMoPzUV0AA9ERUxfVEFHX1BBVFRFUk5zcQB+AAzGpw5BdAASQ0VOVEVSX1RBR19QQVRURVJOc3EAfgAMAUUJbXQADSRhc0luc3RhbmNlT2ZzcQB+AAxocRzUdAAQUkVESVJFQ1RfUEFUVEVSTnNxAH4ADHh+qYZ0AAxleHRyYWN0V29yZHNzcQB+AAxlAUQ7dAAQTUFSS19UQUdfUEFUVEVSTnNxAH4ADLr5Y390ABBleHRyYWN0UGxhaW5UZXh0c3EAfgAMqazGr3QAF0JPTERfRk9STUFUVElOR19QQVRURVJOc3EAfgAMvN4V1XQADUlfVEFHX1BBVFRFUk5zcQB+AAwB7o+bdAANUF9UQUdfUEFUVEVSTnNxAH4ADBezXaZ0ABBGT05UX1RBR19QQVRURVJOc3EAfgAMFHFNu3QAFUlNQUdFX01BUF9UQUdfUEFUVEVSTnNxAH4ADMpz0QV0ABBORVdfTElORV9QQVRURVJOc3EAfgAMkZPSIXQABmVxdWFsc3NxAH4ADL5be7B0ABpJVEFMSUNTX0ZPUk1BVFRJTkdfUEFUVEVSTnNxAH4ADB7XOzd0AA5UVF9UQUdfUEFUVEVSTnNxAH4ADPz+Lpt0ABZSRUZfVEFHX1NJTkdMRV9QQVRURVJOc3EAfgAMivoPD3QAGlNQRUNJQUxfSU5URVJOQUxfV0lLSV9MSU5Lc3EAfgAMaiRaMHQAD1NFQ1RJT05fUEFUVEVSTnNxAH4ADNLUNz50ABVNQVRIX0NIRU1fVEFHX1BBVFRFUk5zcQB+AAyOrVnJdAAQREFUQV9UQUdfUEFUVEVSTnNxAH4ADENQa2l0AA1CX1RBR19QQVRURVJOc3EAfgAMlYl1+nQAElNPVVJDRV9UQUdfUEFUVEVSTnNxAH4ADC+deL50ABhPTkxZX0lOQ0xVREVfVEFHX1BBVFRFUk5zcQB+AAx4iUy/dAAMYXNJbnN0YW5jZU9mc3EAfgAMJFIVPHQAEFRJTUVfVEFHX1BBVFRFUk5zcQB+AAwiTTmMdAAVSU5QVVRfQk9YX1RBR19QQVRURVJOc3EAfgAMtWpa2nQAF0xJTkVfQlJFQUtTX1RBR19QQVRURVJOc3EAfgAMLlAOGHQAElNUUk9OR19UQUdfUEFUVEVSTnNxAH4ADCR9wPZ0AA5ETF9UQUdfUEFUVEVSTnNxAH4ADGKxDL50AAxzeW5jaHJvbml6ZWRzcQB+AAzthiqydAAQTUFUSF9UQUdfUEFUVEVSTnNxAH4ADAXmbCt0ABZleHRyYWN0V2lraURpc3BsYXlUZXh0c3EAfgAMTbJo23QAE0dBTExFUllfVEFHX1BBVFRFUk5zcQB+AAxgutmjdAAVVElNRV9MSU5FX1RBR19QQVRURVJOc3EAfgAMeufyeHQADVRBQkxFX1BBVFRFUk5zcQB+AAzXhjY3dAANJGlzSW5zdGFuY2VPZnNxAH4ADJ7STdx0AA9XQlJfVEFHX1BBVFRFUk5zcQB+AAw2tVZkdAAPVkFSX1RBR19QQVRURVJOc3EAfgAMM9NNNHQAEUhJRVJPX1RBR19QQVRURVJOc3EAfgAM8i66gHQADkVNX1RBR19QQVRURVJOc3EAfgAM6o330nQADkgzX1RBR19QQVRURVJOc3EAfgAMzQsZ83QADkg1X1RBR19QQVRURVJOc3EAfgAMc0TwF3QAD1RFTVBMQVRFX01BUktFUnNxAH4ADId4GMp0ABJFTVBUWV9URVJNX1BBVFRFUk5zcQB+AAyGPsVcdAANUV9UQUdfUEFUVEVSTnNxAH4ADD0zBf10AAlub3RpZnlBbGxzcQB+AAxm/rKKdAAOVUxfVEFHX1BBVFRFUk5zcQB+AAwufRF4dAAUcmVtb3ZlTWF0Y2hXaXRoR3JvdXBzcQB+AAzDmbcmdAAeSU5URVJOQUxfV0lLSV9MSU5LX1dJVEhPVVRfQUxUc3EAfgAMuvzx93QADGlzSW5zdGFuY2VPZnNxAH4ADBecjGx0ABBDT0RFX1RBR19QQVRURVJOc3EAfgAMRMj8nXQAGEVNUFRZX0RFRklOSVRJT05fUEFUVEVSTnNxAH4ADN0UFOZ0ABBDSVRFX1RBR19QQVRURVJOc3EAfgAMZlCWJ3QADk9MX1RBR19QQVRURVJOc3EAfgAMwdpPgHQAEVNDT1JFX1RBR19QQVRURVJOc3EAfgAM++FstXQAEEFCQlJfVEFHX1BBVFRFUk5zcQB+AAxCCFeedAAOcmVwbGFjZVBhdHRlcm5zcQB+AAxNwWFGdAAOSDJfVEFHX1BBVFRFUk5zcQB+AAyItsrzdAAWSFJfV0lLSV9NQVJLVVBfUEFUVEVSTnNxAH4ADG9HesZ0AA9LQkRfVEFHX1BBVFRFUk5zcQB+AAyuZXXjdAAWRVhURVJOQUxfTElOS1NfUEFUVEVSTnNxAH4ADECWYsp0ABFHUkFQSF9UQUdfUEFUVEVSTnNxAH4ADJfWMb50ABVyZXBsYWNlTWF0Y2hXaXRoR3JvdXBzcQB+AAz+PT3hdAAOSDRfVEFHX1BBVFRFUk5zcQB+AAxbYHAKdAAXU1lOVEFYX0hJR0hfVEFHX1BBVFRFUk5zcQB+AAxThTUEdAACPT1zcQB+AAxaBVbydAAcRVhURVJOQUxfTElOS1NfVkFSXzJfUEFUVEVSTnNxAH4ADD0V4e50AA5INl9UQUdfUEFUVEVSTnNxAH4ADDhnLsV0AAVjbG9uZXNxAH4ADNwHTEV0AA5IUl9UQUdfUEFUVEVSTnNxAH4ADGmjQNZ0AA9CRElfVEFHX1BBVFRFUk5zcQB+AAy0c2WEdAAWQkxPQ0tRVU9URV9UQUdfUEFUVEVSTnNxAH4ADMcTN110ABlOT1dJS0lfU0lOR0xFX1RBR19QQVRURVJOc3EAfgAMXnjVS3QAGVRFTVBMQVRFX0RBVEFfVEFHX1BBVFRFUk5zcQB+AAy6TTzTdAATcmVtb3ZlRXh0ZXJuYWxMaW5rc3NxAH4ADHrF9s10ABBURU1QTEFURV9QQVRURVJOc3EAfgAM9/UpPHQAEFNQQU5fVEFHX1BBVFRFUk5zcQB+AAzDAoJldAAYSU5DTFVERV9PTkxZX1RBR19QQVRURVJOc3EAfgAMVRnWUXQAD0NPTU1FTlRfUEFUVEVSTnNxAH4ADFu1CIV0ABZDSEFSSU5TRVJUX1RBR19QQVRURVJOc3EAfgAMI57l2XQAHVJFRkVSRU5DRVNfU0lOR0xFX1RBR19QQVRURVJOc3EAfgAMMBGUsnQAFVVOREVSTElORV9UQUdfUEFUVEVSTnNxAH4ADOY1SNN0AA9JTlNfVEFHX1BBVFRFUk5zcQB+AAyNKDAodAARcmVwbGFjZU5lc3RlZFRhZ3NzcQB+AAyZILLIdAAWUkVGRVJFTkNFU19UQUdfUEFUVEVSTnNxAH4ADAiH6Px0AAh0b1N0cmluZ3NxAH4ADAYe6kV0ABFUQUJMRV9UQUdfUEFUVEVSTnNxAH4ADIbQoc50ABJJTlRFUk5BTF9XSUtJX0xJTktzcQB+AAzmSCusdAACIT1zcQB+AAzUjU+7dAAPQkRPX1RBR19QQVRURVJOc3EAfgAMbmiOV3QAEHBhcnNlWE1MV2lraVBhZ2VzcQB+AAzBFyowdAAPREZOX1RBR19QQVRURVJOc3EAfgAM+Q2yO3QACGdldENsYXNzc3EAfgAMmr79y3QAFlNUUklLRV9PVVRfVEFHX1BBVFRFUk5zcQB+AAwYfrPLdAAWTk9fSU5DTFVERV9UQUdfUEFUVEVSTnNxAH4ADDsxJA50AAxXT1JEX1BBVFRFUk5zcQB+AAyrJNl5dAAOSDFfVEFHX1BBVFRFUk5zcQB+AAxO/PGadAAiRU1QVFlfT1JERVJFRF9MSVNUX0VMRU1FTlRfUEFUVEVSTnNxAH4ADA7S89B0ABJTVFJJS0VfVEFHX1BBVFRFUk5zcQB+AAwJiIK2dAACbmVzcQB+AAwPRvyWdAAPU1VQX1RBR19QQVRURVJOc3EAfgAMTnQTeXQAFUlORElDQVRPUl9UQUdfUEFUVEVSTnNxAH4ADByuunN0AA9ESVZfVEFHX1BBVFRFUk5zcQB+AAzaCSx7dAAcRFVQTElDQVRFX1dISVRFU1BBQ0VfUEFUVEVSTnNxAH4ADKwSsZh0ABBTQU1QX1RBR19QQVRURVJOc3EAfgAMHm37Y3QAAmVxc3EAfgAMJfiXQ3QAEFJVQllfVEFHX1BBVFRFUk5zcQB+AAx2MqTTdAACIyNzcQB+AAzEFf+vdAAPQklHX1RBR19QQVRURVJOc3EAfgAMAiOnYnQACGZpbmFsaXplc3EAfgAM9xeplHQACGhhc2hDb2Rlc3EAfgAM0QMPUHQAEEJPTERfVEFHX1BBVFRFUk5zcQB+AAyp6TE6dAARU01BTExfVEFHX1BBVFRFUk5zcQB+AAxg+57PdAAPUFJFX1RBR19QQVRURVJOc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BF3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAF3dpa2lwbGFnLldpa2lEdW1wUGFyc2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAGHNjYWxhLmFubm90YXRpb24udGFpbHJlY3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4BMXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BMABwc3EAfgE1c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ARdMAAlpbmhlcml0ZWRxAH4BF0wAB3BhcmVudHNxAH4BF3hxAH4BOXNxAH4BMABwc3EAfgE1dXEAfgESAAAAAHNxAH4BMABwc3EAfgE1dXEAfgESAAAAAHNxAH4BMABwc3EAfgE1dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgE4dAAGUGFyc2Vyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgE4c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAh3aWtpcGxhZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgFWc3EAfgFJdAAGT2JqZWN0c3EAfgFNc3EAfgFQdXEAfgFTAAAAA3NxAH4BVXQABGphdmFzcQB+AVV0AARsYW5ncQB+AVpzcQB+AUl0AANBbnlzcQB+AU1zcQB+AVB1cQB+AVMAAAACc3EAfgFVdAAFc2NhbGFxAH4BWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACHdpa2lwbGFnc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmxPBupXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AG0vaG9tZS9mbG9yaWFuL0Rlc2t0b3AvQ29udGVudE1hbmFnZW1lbnRTdWNodFVuZFRleHR0ZWNobm9sb2dpZW4vV2lraVBsYWdpYXRlQXVmZ2FiZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUtFudYG3BJUawSrcV0f6sDoboutw=
+external apis:
+0 items
+source infos:
+6 items
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Parser.scala -> 
+AAAAAAAAAAA=
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/StopWordAccumulator.scala -> 
+AAAAAAAAAAA=
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/Utilities.scala -> 
+AAAAAAAAAAA=
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikiPlagFuns.scala -> 
+AAAAAAAAAAA=
+/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/WikiPlagiateAufgabe/src/main/scala/wikiplag/WikidumpParser.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZsTwbqV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbS9ob21lL2Zsb3JpYW4vRGVza3RvcC9Db250ZW50TWFuYWdlbWVudFN1Y2h0VW5kVGV4dHRlY2hub2xvZ2llbi9XaWtpUGxhZ2lhdGVBdWZnYWJlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

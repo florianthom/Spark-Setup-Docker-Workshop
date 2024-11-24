@@ -1,0 +1,55 @@
+[0m[[0minfo[0m] [0m[32mTwitterAnalyzerTest:[0m[0m
+[0m[[0minfo[0m] [0m[31m- Number of German Tweets *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at twitter.TwitterAnalyzer.getGermanTweetsCount(TwitterAnalyzer.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.TwitterAnalyzerTest$$anonfun$1.apply(TwitterAnalyzerTest.scala:41)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.TwitterAnalyzerTest$$anonfun$1.apply(TwitterAnalyzerTest.scala:39)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- number of tweets per user *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at twitter.TwitterAnalyzer.numberOfGermanTweetsPerUser(TwitterAnalyzer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.TwitterAnalyzerTest$$anonfun$2.apply(TwitterAnalyzerTest.scala:48)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.TwitterAnalyzerTest$$anonfun$2.apply(TwitterAnalyzerTest.scala:46)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- Texts of the German Tweets *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at twitter.TwitterAnalyzer.getGermanTweetTexts(TwitterAnalyzer.scala:17)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.TwitterAnalyzerTest$$anonfun$4.apply(TwitterAnalyzerTest.scala:54)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.TwitterAnalyzerTest$$anonfun$4.apply(TwitterAnalyzerTest.scala:52)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- Extraction of Hashtags *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  (#hashtag,#mega,#super) did not equal List("#hashtag", "#mega", "#super") (TwitterAnalyzerTest.scala:65)[0m[0m
+[0m[[0minfo[0m] [0m[31m- Top ten hashtags *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at twitter.TwitterAnalyzer.getTopTenHashtags(TwitterAnalyzer.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.TwitterAnalyzerTest$$anonfun$6.apply(TwitterAnalyzerTest.scala:70)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.TwitterAnalyzerTest$$anonfun$6.apply(TwitterAnalyzerTest.scala:68)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

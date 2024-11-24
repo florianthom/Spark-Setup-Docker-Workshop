@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/UebungMatrixAufgabe/target/scala-2.12/matrixcalculationsaufgabe_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/UebungMatrixAufgabe/target/scala-2.12/classes/common/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/UebungMatrixAufgabe/target/scala-2.12/classes/common/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matrix/Matrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/UebungMatrixAufgabe/target/scala-2.12/classes/matrix/Matrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/UebungMatrixAufgabe/target/scala-2.12/classes/common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matrix/SparseMatrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/UebungMatrixAufgabe/target/scala-2.12/classes/matrix/SparseMatrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matrix/Matrix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/UebungMatrixAufgabe/target/scala-2.12/classes/matrix/Matrix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matrix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/UebungMatrixAufgabe/target/scala-2.12/classes/matrix[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0m[32mParsingTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Date Parsing Successful[0m[0m
+[0m[[0minfo[0m] [0m[31m- Parsing Test *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.ClassCastException: java.lang.Integer cannot be cast to java.time.OffsetDateTime[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.ParsingTest$$anonfun$2.apply(ParsingTest.scala:48)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at test.ParsingTest$$anonfun$2.apply(ParsingTest.scala:42)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite.withFixture(FunSuite.scala:1560)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuiteLike$class.invokeWithFixture$1(FunSuiteLike.scala:183)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- Parse All *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  21326 did not equal 17570 (ParsingTest.scala:60)[0m[0m

@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/02_TwitterAnalysisAufgabe/src/test/resources/tweets.txt,/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/02_TwitterAnalysisAufgabe/target/scala-2.11/test-classes/tweets.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/02_TwitterAnalysisAufgabe/src/test/resources/tweets-big.txt,/home/florian/Desktop/ContentManagementSuchtUndTexttechnologien/02_TwitterAnalysisAufgabe/target/scala-2.11/test-classes/tweets-big.txt)[0m

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/florian/Desktop/EntwicklungSozialerAnwendungen/Uebung5Aufgabe/src/main/scala/list/IntList.scala:56:16: method map overrides nothing[0m
+[0m[[0m[31merror[0m] [0m[0m  override def map(mapFun:(Int)=>Int): IntList = {[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

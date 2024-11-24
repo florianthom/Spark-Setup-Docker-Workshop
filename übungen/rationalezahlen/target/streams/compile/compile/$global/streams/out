@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/florian/Desktop/EntwicklungSozialerAnwendungen/Uebung1_sbt/src/main/scala/uebung1/Rational.scala:31:27: not found: value r[0m
+[0m[[0m[31merror[0m] [0m[0m    new Rational(this.add(r.neg)) // this muss nicht und neg klammern muss man auch nicht schreiben[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

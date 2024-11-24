@@ -1,0 +1,9 @@
+test -feature
+test
+set scalacOptions in ThisBuild ++= Seq("-unchecked", "-feature")
+test
+clean
+test
+run
+close
+exit

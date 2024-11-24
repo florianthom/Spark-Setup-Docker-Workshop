@@ -1,3 +1,4 @@
-# Spark: Docker-Setup Workshop
+# Spark Workshop
 
-Gain insights into Spark's Master-Worker Setup: Explore Spark through Docker Deployments.
+Gain insights and hands-on experience with Spark.
+Explore Spark through Docker Deployments.
